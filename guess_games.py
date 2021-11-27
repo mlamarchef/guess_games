@@ -5,22 +5,13 @@ number = random.randint(0,5)
 print(  number  )
 
 while(True):
-    x = int( input("Digite el numero \n") )
+    x = int( input(" Enter the number \n") )
 
     if x == number:
-        print( "Este es el numero !!!" )
+        print( " You did it !!!" )
     elif x > number:
-        print( "El numero digitado es mayor " )
+        print( " the number entered is greater " )
     else:
-        print( "El numero digitado es menor " )
+        print( " the number entered is less " )
 
 
-
-
-
-
-
-"""
-Producto , cliente 
-modelo de negocio : Estrucutra ddel negocio, plane con pagos online , pagos ccon eectivo, contro de caja , sistema de fatruacion
-"""
