@@ -1,0 +1,1 @@
+example of a game to guess the number made in python, using the random library
