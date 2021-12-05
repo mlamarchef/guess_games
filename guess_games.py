@@ -2,7 +2,7 @@ import random
 
 number = random.randint(0,5)
 
-print(  number  )
+# print(  number  )
 
 while(True):
     x = int( input(" Enter the number \n") )
